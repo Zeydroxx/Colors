@@ -1,1 +1,1 @@
-Just a beautifull art in python
+Just a beautiful art in python
